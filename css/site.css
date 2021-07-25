@@ -2,6 +2,12 @@ main>.container {
   padding: 60px 15px 0;
 }
 
+main {
+  margin-top: 20px;
+  margin-bottom: 60px;
+
+}
+
 .sticky-nav {
   position: fixed;
   left: 0;
@@ -25,5 +31,5 @@ main>.container {
 }
 
 .minHeight {
-  min-height: 90vh;
+  min-height: 80vh;
 }
